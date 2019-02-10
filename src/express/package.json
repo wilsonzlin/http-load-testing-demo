@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "*",
+    "mysql": "*",
+    "tmp": "*",
+    "bcrypt": "*"
+  }
+}
